@@ -43,7 +43,7 @@ $(function () {
         }
 
         function fail() {
-            $("#locationhere").html("<h1>We can not get your location</h1>");
+            $("#locationhere").html("<h1>Sorry, we can't seem to get your location!</h1>");
         }
     }
     else{
