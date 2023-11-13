@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Luffy",
+        "lastName": "Monkey",
+        "gender": "Male",
+        "occupation": "Captain",
+        "power": "Flexibility"
+    },
+    {
+        "firstName": "Nami",
+        "lastName": "Burglar",
+        "gender": "Female",
+        "occupation": "Navigator",
+        "power": "Cartography"
+    },
+    {
+        "firstName": "Zoro",
+        "lastName": "Roronoa",
+        "gender": "Male",
+        "occupation": "Swordsman",
+        "power": "Swords"
+    },
+    {
+        "firstName": "Sanji",
+        "lastName": "Buru",
+        "gender": "Male",
+        "occupation": "Cook",
+        "power": "Cooking"
+    },
+    {
+        "firstName": "Robin",
+        "lastName": "Nico",
+        "gender": "Female",
+        "occupation": "Archaeologist",
+        "power": "Copies"
+    },
+    {
+        "firstName": "Chopper",
+        "lastName": "Tony",
+        "gender": "Male",
+        "occupation": "Doctor",
+        "power": "Reindeer"
+    },
+    {
+        "firstName": "Jimbei",
+        "lastName": "Fish",
+        "gender": "Male",
+        "occupation": "Fighter",
+        "power": "Karate"
+    }
+]

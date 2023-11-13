@@ -1,0 +1,56 @@
+html {
+    background-color: lightblue;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(141, 42, 58);
+    text-decoration: underline;
+    text-align: center;
+}
+
+input {
+    width: 20%;
+    padding: 5px;
+    margin-left: 15px;
+    border: 2px solid black;
+}
+
+table {
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+thead td {
+    border: 2px solid black;
+    font-weight: bold;
+    text-align: center;
+}
+
+tbody td {
+    border: 2px solid rgb(101, 41, 41);
+}
+
+td {
+    text-align: center;
+    width: 10%;
+    font-size: 20px;
+}
+
+label {
+    font-size: 20px;
+}
+
+button {
+    margin: 50px;
+    width: 200px;
+    font-size: 20px;
+    height: 40px;
+    border-radius: 10px;
+}
