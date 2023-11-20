@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Luffy",
+        "lastName": "Monkey",
+        "gender": "Male",
+        "occupation": "Captain",
+        "power": "Flexibility",
+        "dateOfBirth": "1505-05-05"
+    },
+    {
+        "firstName": "Nami",
+        "lastName": "Burglar",
+        "gender": "Female",
+        "occupation": "Navigator",
+        "power": "Cartography",
+        "dateOfBirth": "1515-07-03"
+    },
+    {
+        "firstName": "Zoro",
+        "lastName": "Roronoa",
+        "gender": "Male",
+        "occupation": "Swordsman",
+        "power": "Swords",
+        "dateOfBirth": "1503-11-11"
+    },
+    {
+        "firstName": "Sanji",
+        "lastName": "Buru",
+        "gender": "Male",
+        "occupation": "Cook",
+        "power": "Cooking",
+        "dateOfBirth": "1518-03-02"
+    },
+    {
+        "firstName": "Robin",
+        "lastName": "Nico",
+        "gender": "Female",
+        "occupation": "Archaeologist",
+        "power": "Copies",
+        "dateOfBirth": "1525-02-06"
+    },
+    {
+        "firstName": "Chopper",
+        "lastName": "Tony",
+        "gender": "Male",
+        "occupation": "Doctor",
+        "power": "Reindeer",
+        "dateOfBirth": "1501-12-24"
+    },
+    {
+        "firstName": "Jimbei",
+        "lastName": "Fish",
+        "gender": "Male",
+        "occupation": "Fighter",
+        "power": "Karate",
+        "dateOfBirth": "1523-04-02"
+    }
+]
