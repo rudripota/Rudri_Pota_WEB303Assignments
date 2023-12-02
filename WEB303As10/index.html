@@ -1,0 +1,39 @@
+<html>
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1>
+       Rudri Pota
+    </h1>
+
+        <form method="post" id="registration" action="/register">
+
+        <label for="username">Username:</label>
+        <input type="text" id="username">
+
+        <label for="password">Password:</label>
+        <input type="password" id="password">
+
+        <label for="password2">Confirm previously entered password:</label>
+        <input type="password" id="password2">
+
+        <input type="checkbox" value="confirm" id="confirm">
+        <label for="confirm">I accept the terms of service</label>
+        
+        <select name="country" id="country">
+            <option value="none">Select your Country</option>
+        </select>
+
+        <input type="submit" value="Submit" id="submit">
+    </form>
+
+    <div id="welcomeMessage" style="display: none;"></div>
+    <script type="text/javascript" src="js/countries.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
